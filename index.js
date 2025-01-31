@@ -16,39 +16,39 @@ const music = new Audio();
 const songs = [
 
        {
-        path: 'assets/1.mp3',
+        path: 'main/1.mp3',
         displayName: 'Soch Na Sake',
-        cover: 'assets/1.jpg',
+        cover: 'main/1.jpg',
         artist: 'Amaal Mallik',
     },
        {
-        path: 'assets/2.mp3',
+        path: 'main/2.mp3',
         displayName: 'Die With A Smile',
-        cover: 'assets/2.jpg',
+        cover: 'main/2.jpg',
         artist: 'Shanu',
     },
        {
-        path: 'assets/3.mp3',
+        path: 'main/3.mp3',
         displayName: 'CO2',
-        cover: 'assets/3.jpg',
+        cover: 'main/3.jpg',
         artist: 'Shanu',
     },
        {
-        path: 'assets/4.mp3',
+        path: 'main/4.mp3',
         displayName: 'Give Me Some Sunshine',
-        cover: 'assets/4.jpg',
+        cover: 'main/4.jpg',
         artist: 'Shanu',
     },
      {
-        path: 'assets/5.mp3',
+        path: 'main/5.mp3',
         displayName: 'Ilahi',
-        cover: 'assets/5.jpg',
+        cover: 'main/5.jpg',
         artist: 'Arijit Singh',
     },
        {
-        path: 'assets/6.mp3',
+        path: 'main/6.mp3',
         displayName: 'Surili Akhiyon Wale',
-        cover: 'assets/6.jpg',
+        cover: 'main/6.jpg',
         artist: 'Rahat Fateh Ali Khan and Suzanne D'Mello',
     },
 ];
