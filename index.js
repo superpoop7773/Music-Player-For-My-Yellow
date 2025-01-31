@@ -49,7 +49,7 @@ const songs = [
         path: 'main/6.mp3',
         displayName: 'Surili Akhiyon Wale',
         cover: 'main/6.jpg',
-        artist: 'Rahat Fateh Ali Khan and Suzanne D'Mello',
+        artist: 'Rahat Fateh Ali Khan and Suzanne D,
     },
 ];
 
